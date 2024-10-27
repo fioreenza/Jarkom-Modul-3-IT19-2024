@@ -1,6 +1,8 @@
 # Modul 3 Jarkom
 
 ## Konfigurasi Node
+![Screenshot 2024-10-26 213933](https://github.com/user-attachments/assets/fdb5d3de-6cbd-4c61-bb3b-b07c301a351b)
+
 
 Paradis (Router (DHCP Relay))
 
