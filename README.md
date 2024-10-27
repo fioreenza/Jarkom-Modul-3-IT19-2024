@@ -906,6 +906,10 @@ service nginx restart
 
 ![image.png](image%2019.png)
 
+Grafik
+![Chart Title](https://github.com/user-attachments/assets/661141a4-60d5-4045-bceb-561042773410)
+
+
 ## Soal 9
 
 1. Dengan menggunakan algoritma Least-Connection, lakukan testing dengan menggunakan 3 worker, 2 worker, dan 1 worker sebanyak 1000 request dengan 10 request/second, kemudian tambahkan grafiknya pada “laporan kerja Armin”. **(9)**
@@ -1025,6 +1029,10 @@ service nginx restart
 ![image.png](image%2024.png)
 
 ![image.png](image%2025.png)
+
+Grafik
+![Chart Title 2](https://github.com/user-attachments/assets/70393edd-4242-4911-9234-a50dd0f22a1d)
+
 
 ## Soal 10
 
