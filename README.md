@@ -1,5 +1,25 @@
 # Modul 3 Jarkom
 
+| Name               |      NRP    |
+|--------------------|-------------|
+| Fiorenza Adelia Nalle | 5027231053 |
+
+## Daftar Isi
+
+1. [Soal 1](#soal-1)
+2. [Soal 2](#soal-2)
+3. [Soal 3](#soal-3)
+4. [Soal 4](#soal-4)
+5. [Soal 5](#soal-5)
+6. [Soal 6](#soal-6)
+7. [Soal 7](#soal-7)
+8. [Soal 8](#soal-8)
+9. [Soal 9](#soal-9)
+10. [Soal 10](#soal-10)
+11. [Soal 11](#soal-11)
+12. [Soal 12](#soal-12)
+13. [Soal 13](#soal-13)
+
 ## Konfigurasi Node
 ![Screenshot 2024-10-26 213933](https://github.com/user-attachments/assets/fdb5d3de-6cbd-4c61-bb3b-b07c301a351b)
 
