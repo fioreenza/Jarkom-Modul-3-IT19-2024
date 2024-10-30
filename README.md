@@ -1175,11 +1175,11 @@ server {
     server_name _;
 
     location / {
-			    allow 10.73.1.77;
-					allow 10.73.1.88;
-					allow 10.73.2.144;
-					allow 10.73.2.156;
-					deny all;
+	allow 10.73.1.77;
+	allow 10.73.1.88;
+	allow 10.73.2.144;
+	allow 10.73.2.156;
+	deny all;
 		
           proxy_pass http://worker;
           proxy_http_version 1.1;
@@ -1192,6 +1192,12 @@ server {
     }
     
     location /titan {
+	allow 10.73.1.77;
+	allow 10.73.1.88;
+	allow 10.73.2.144;
+	allow 10.73.2.156;
+	deny all;
+
           proxy_pass https://attackontitan.fandom.com/wiki/Attack_on_Titan_Wiki;
 					proxy_set_header X-Real-IP $remote_addr;
 					proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
