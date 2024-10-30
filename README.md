@@ -645,6 +645,10 @@ service nginx restart
 service php7.3-fpm restart
 ```
 
+```
+apt install apache2-utils
+```
+
 ![image.png](image%207.png)
 
 ![image.png](image%208.png)
